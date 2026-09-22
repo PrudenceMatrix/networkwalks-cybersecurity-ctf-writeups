@@ -102,7 +102,7 @@ For the second challenge, no web wrappers. Strictly terminal, strictly John the 
    ```[cite: 5]
 
 <p align="center">
-  <img src="./jtrdemo.png" alt="John the Ripper CLI Run" width="850">
+  <img src="./jtrdemo.png" alt="Terminal & Network Check" width="850">
 </p>
 
 * **Recovered Credential:** `good-luck`[cite: 5]
@@ -114,7 +114,7 @@ For the second challenge, no web wrappers. Strictly terminal, strictly John the 
 Used `good-luck` on the Desktop PDF  to strip the encryption and dump the payload[cite: 5, 6]:
 
 <p align="center">
-  <img src="./jtrflag.png" alt="Flag 2 Captured" width="850">
+  <img src="./jtrflag.png" alt="Terminal & Network Check" width="850">
 </p>
 
 * **Flag 2:** `nw{cybersecurity_flag_captured_2608}`[cite: 6]
